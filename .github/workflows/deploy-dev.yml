@@ -15,8 +15,9 @@ jobs:
       with:
         ref: dev
 
-    - name: weboldalam-dev repo klónozása
+    - name: Weboldalam-dev repo törlése és új klónozása
       run: |
+        rm -rf weboldalam-dev # Töröljük a korábbi klónozott mappát, ha létezik
         git clone https://x-access-token:${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/tanczikm/weboldalam-dev.git weboldalam-dev
 
     - name: Tartalom másolása a dev repóba
