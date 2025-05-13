@@ -1,0 +1,7 @@
+"https://icast.connectmedia.hu/5011/live.mp3|Rádió 1 Miskolc"
+"https://icast.connectmedia.hu/5002/live.mp3|Retro Rádió"
+"http://hosting2.42netmedia.com:10060/stream|Rádió M"
+"https://slagerfm.netregator.hu:7813/slagerfm128.mp3|Sláger FM"
+"https://icast.connectmedia.hu/4748/mr7.mp3|Dankó Rádió"
+"https://oxygenmusic.hu:8000/oxygenmusic_128|Oxygen Music"
+"https://oxygenmusic.hu:8000/oxygenmagyarzene_128|Oxygen Magyar Zene"
